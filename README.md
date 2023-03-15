@@ -1,4 +1,4 @@
-<div style="background:#3D3D3D;padding:20px">
+<div style="background:#3D3D3D;">
 <h1 align="center">Hola 👋, me llamo Wilson Belduma</h1>
 </div>
 
