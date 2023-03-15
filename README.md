@@ -12,7 +12,7 @@
 
 <p>Soy un profesional dedicado a la programación y diseño web, tengo conocimientos en lenguajes de programación: PHP, JAVA, JavaScript, python, gestores de contenidos como wordpress y frameworks como: Django, Laravel, React Native; He utilizado sistemas de gestión de bases de datos como: Postgres, SQL server, Mysql, MongoDB. Me gusta mejorar mis habilidades y aprender nuevas tecnologías que contribuyan al desarrollo.</p>
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/wilbel?tab=repositories](Repositorios)
+- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/wilbel?tab=repositories](https://github.com/wilbel?tab=repositories)
 
 - 📫 Contactame **leonelbelduma@gmail.com**
 
