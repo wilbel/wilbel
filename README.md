@@ -1,5 +1,6 @@
+<div style="background:black;padding:20px">
 <h1 align="center">Hola 👋, me llamo Wilson Belduma</h1>
-
+</div>
 [![Header](https://eduardofierro.pro/assets/thumb/github-cover.jpg "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
 
 
