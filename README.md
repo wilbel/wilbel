@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, me llamo Wilson Belduma</h1>
-## 👉 Sobre mí
+👉 Sobre mí
 
-Soy un profesional dedicado a la programación y diseño web, tengo conocimientos en lenguajes de programación: PHP, JAVA, JavaScript, python, gestores de contenidos como wordpress y frameworks como: Django, Laravel, React Native; He utilizado sistemas de gestión de bases de datos como: Postgres, SQL server, Mysql, MongoDB. Me gusta mejorar mis habilidades y aprender nuevas tecnologías que contribuyan al desarrollo.
+<p>Soy un profesional dedicado a la programación y diseño web, tengo conocimientos en lenguajes de programación: PHP, JAVA, JavaScript, python, gestores de contenidos como wordpress y frameworks como: Django, Laravel, React Native; He utilizado sistemas de gestión de bases de datos como: Postgres, SQL server, Mysql, MongoDB. Me gusta mejorar mis habilidades y aprender nuevas tecnologías que contribuyan al desarrollo.</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/wilbel?tab=repositories](https://github.com/wilbel?tab=repositories)
+- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/wilbel?tab=repositories](Repositorios)
 
-- 📫 How to reach me **leonelbelduma@gmail.com**
+- 📫 Contactame **leonelbelduma@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/leonel-belduma/](https://www.linkedin.com/in/leonel-belduma/)
+- 📄 Conoce mis experiencias [https://www.linkedin.com/in/leonel-belduma/](https://www.linkedin.com/in/leonel-belduma/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leonel-belduma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonel-belduma/" height="30" width="40" /></a>
 </p>
