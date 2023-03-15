@@ -10,8 +10,7 @@
 <h3 align="left">👋 Proyectos</h3>
 - 👨‍💻 Todos mis proyectos estan disponibles en [wilbel?tab=repositories](https://github.com/wilbel?tab=repositories)
 
-<h3 align="left">![image](https://user-images.githubusercontent.com/126720107/225339529-a1b223a1-b15c-45d4-a622-b1428393781c.png)
- Contactame</h3>
+<h3 align="left">📝 Contactame</h3>
 - 📫 Contactame **leonelbelduma@gmail.com**
 
 
