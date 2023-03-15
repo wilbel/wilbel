@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hola 👋, me llamo Wilson Belduma</h1>
+<h1 align="center">👋</h1>
 
 
 <h3 align="left">👉 Sobre mí</h3>
