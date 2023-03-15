@@ -1,6 +1,15 @@
-<div style="background:#3D3D3D;">
+
+
+
+
+
+[![Header]([https://eduardofierro.pro/assets/thumb/github-cover.jpg](https://wibcode.com/wp-content/uploads/2023/03/wilson.png) "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+
+
+
+
 <h1 align="center">Hola 👋, me llamo Wilson Belduma</h1>
-</div>
+
 
 <h3 align="left">👉 Sobre mí</h3>
 
