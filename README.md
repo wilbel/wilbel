@@ -3,17 +3,15 @@
 [![Header](https://wibcode.com/wp-content/uploads/2023/03/wilson-1.png "Header")](https://www.linkedin.com/in/leonel-belduma/)
 
 
-
-
-<h1 align="center">👋</h1>
-
-
 <h3 align="left">👉 Sobre mí</h3>
 
 <p>Soy un profesional dedicado a la programación y diseño web, tengo conocimientos en lenguajes de programación: PHP, JAVA, JavaScript, python, gestores de contenidos como wordpress y frameworks como: Django, Laravel, React Native; He utilizado sistemas de gestión de bases de datos como: Postgres, SQL server, Mysql, MongoDB. Me gusta mejorar mis habilidades y aprender nuevas tecnologías que contribuyan al desarrollo.</p>
 
+<h3 align="left">👋 Proyectos</h3>
 - 👨‍💻 Todos mis proyectos estan disponibles en [wilbel?tab=repositories](https://github.com/wilbel?tab=repositories)
 
+<h3 align="left">![image](https://user-images.githubusercontent.com/126720107/225339529-a1b223a1-b15c-45d4-a622-b1428393781c.png)
+ Contactame</h3>
 - 📫 Contactame **leonelbelduma@gmail.com**
 
 
