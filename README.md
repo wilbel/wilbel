@@ -14,8 +14,6 @@
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leonel-belduma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonel-belduma/" height="30" width="40" /></a>
-</p>
 
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leonel-belduma/)
 
