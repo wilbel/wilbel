@@ -10,9 +10,8 @@
 
 - 📫 Contactame **leonelbelduma@gmail.com**
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com/in/leonel-belduma/](https://www.linkedin.com/in/leonel-belduma/)
 
-<h3 align="left">Contactame:</h3>
+<h3 align="left">Conoce mis experiencias:</h3>
 <p align="left">
 
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leonel-belduma/)
