@@ -3,7 +3,7 @@
 
 
 
-[![Header]([https://eduardofierro.pro/assets/thumb/github-cover.jpg](https://wibcode.com/wp-content/uploads/2023/03/wilson.png) "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+[![Header]([[https://eduardofierro.pro/assets/thumb/github-cover.jpg](https://wibcode.com/wp-content/uploads/2023/03/wilson.png)](https://wibcode.com/wp-content/uploads/2023/03/wilson.png) "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
 
 
 
