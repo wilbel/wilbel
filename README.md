@@ -1,6 +1,6 @@
 
 
-[![Header](https://wibcode.com/wp-content/uploads/2023/03/wilson-1.png "Header")](https://www.linkedin.com/in/leonel-belduma/)
+[![Header](https://wibcode.com/wp-content/uploads/2023/11/WELCOME-MY-GYTHUB.png "Header")](https://www.linkedin.com/in/leonel-belduma/)
 
 
 <h3 align="left">👉 Sobre mí</h3>
